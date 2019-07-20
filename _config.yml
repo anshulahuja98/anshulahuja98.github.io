@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-144025674-1'
-disqus: 'demowebsite'
+disqus: 'personal-blog'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
@@ -15,8 +15,8 @@ permalink: /:title/
 authors:
   anshul:
     name: Anshul Ahuja
-    display_name: Anshul
-    avatar: 'assets/images/avatar.png'
+    display_name: Anshul Ahuja
+    avatar: 'assets/images/profile.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: anshul.ahu@gmail.com
     web: http://anshulahuja98.github.io
