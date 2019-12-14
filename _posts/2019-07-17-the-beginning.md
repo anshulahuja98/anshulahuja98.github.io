@@ -1,31 +1,30 @@
 ---
 layout: post
-title:  "The Beginning"
+title: "Le début"
 author: anshul
 image: assets/images/cover.jpg
-description: "This is the beginning of my personal blog."
+description: "Beginning of my personal blog."
 ---
 
 ### About me
-Hey everyone, I am Anshul Ahuja, currently a Pre-final year CSE undergrad at IIT Jodhpur.
-I am originally from New Delhi, I did my schooling from DPS Dwarka.
-I formerly interned at Microsoft, Hyderabad.
-I am a geek of sorts and love experimenting with different technologies.
-I love to talk tech/biz with anyone who is up to date with the current tech scenario.
+Hey everyone, I am Anshul Ahuja, currently a Pre-final year CSE undergrad at IIT Jodhpur '21.
+I hail from the capital city of New Delhi, India, did my schooling from DPS Dwarka '17 in New Delhi.
+I formerly interned at Microsoft, Hyderabad during summer '19 as Software Engineer Intern.
+I am a geek of sorts and love experimenting with new and different technologies and I can talk endlessly about the tech/biz world.
 
-My hobbies are geeky as expected: Speedcubing, listening to podcasts/music, swimming. 
+My hobbies: Speedcubing, listening to podcasts/music, swimming. 
 
 
 ### Motivation for this blog site
-The motivation to write this blog is two fold
-One type of blog that I am planning to write is to give an overview of my projects to people who would like to contribute to them in any way or learn from them to develop their own projects and learn new technologies.
-The second would be my personal blogs talking about my take on various topics ranging from various technologies to personal experiences.
+The motivation to write this blog is two-fold. 
+One type of blog that I am planning to write is to give an overview of my projects to people who would like to contribute to them in any way or learn from them. Also, assist them in developing their own projects and learn new technologies.
+The second would be my personal blogs encompassing my take on various topics ranging from various technologies to personal experiences.
 
 ### For the readers
-I would really appreciate constant feedback on the blogs, and any suggestions as to the new content that I should discuss about!
+I would really appreciate valuable feedback on the blogs, and any suggestions as to the new content that I should discuss!
 Looking forward to hearing from you!
 
-### Feel free to follow me and checkout my work 
+### Feel free to follow me and check out my work 
 
 #### Links:
 * [Github](https://github.com/anshulahuja98)
