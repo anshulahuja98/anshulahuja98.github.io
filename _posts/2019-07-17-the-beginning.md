@@ -10,7 +10,7 @@ description: "Beginning of my personal blog."
 Hey everyone, I am Anshul Ahuja, currently a Pre-final year CSE undergrad at IIT Jodhpur '21.
 I hail from the capital city of New Delhi, India, did my schooling from DPS Dwarka '17 in New Delhi.
 I formerly interned at Microsoft, Hyderabad during summer '19 as Software Engineer Intern.
-I am a geek of sorts and love experimenting with new and different technologies and I can talk endlessly about the tech/biz world.
+I am a geek of sorts and love experimenting with new and different technologies and I can talk endlessly about the tech/biz world. I am really passionate about open source projects, creating them and contributing to them <3.
 
 My hobbies: Speedcubing, listening to podcasts/music, swimming. 
 
@@ -19,6 +19,7 @@ My hobbies: Speedcubing, listening to podcasts/music, swimming.
 The motivation to write this blog is two-fold. 
 One type of blog that I am planning to write is to give an overview of my projects to people who would like to contribute to them in any way or learn from them. Also, assist them in developing their own projects and learn new technologies.
 The second would be my personal blogs encompassing my take on various topics ranging from various technologies to personal experiences.
+I have already written some technical blogs on [Medium](https://medium.com/@anshul.ahu), feel free to check them out as well.
 
 ### For the readers
 I would really appreciate valuable feedback on the blogs, and any suggestions as to the new content that I should discuss!
