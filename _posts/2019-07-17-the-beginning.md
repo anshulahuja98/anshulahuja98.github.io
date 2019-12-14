@@ -8,8 +8,9 @@ description: "Beginning of my personal blog."
 
 ### About me
 Hey everyone, I am Anshul Ahuja, currently a Pre-final year CSE undergrad at IIT Jodhpur '21.
-I hail from the capital city of New Delhi, India, did my schooling from DPS Dwarka '17 in New Delhi.
+I hail from the capital city of New Delhi, India. I did my schooling from DPS Dwarka '17 in New Delhi.
 I formerly interned at Microsoft, Hyderabad during summer '19 as Software Engineer Intern.
+
 I am a geek of sorts and love experimenting with new and different technologies and I can talk endlessly about the tech/biz world. I am really passionate about open source projects, creating them and contributing to them <3.
 
 My hobbies: Speedcubing, listening to podcasts/music, swimming. 
